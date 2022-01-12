@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-sap-food-menu/static/css/main.16576aee.css",
+    "main.js": "/react-sap-food-menu/static/js/main.74394980.js",
+    "index.html": "/react-sap-food-menu/index.html",
+    "main.16576aee.css.map": "/react-sap-food-menu/static/css/main.16576aee.css.map",
+    "main.74394980.js.map": "/react-sap-food-menu/static/js/main.74394980.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16576aee.css",
+    "static/js/main.74394980.js"
+  ]
+}
