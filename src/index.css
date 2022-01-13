@@ -56,13 +56,36 @@ nav {
  }
 
 
+.input-field {
+
+     width: 100%;
+     margin-top: 2.2rem;
+     -webkit-appearance: none;
+     border-radius: 0;
+     
+}
+
+
+.input-field input[type=search] {
+     display: block;
+     line-height: inherit;
+     -webkit-transition: .3s background-color;
+     transition: .3s background-color;
+     margin: 0px 0px;
+     box-sizing: border-box;
+     border-bottom: 2px solid #e0e0e0;
+     
+     
+   }
+
+
 .btn {
         position: relative;
         text-align:center;
         background-color:#43a047;
+        margin-top: 4px;
         
 }
-
 
 .btn:hover {
         background-color:#66bb6a;
