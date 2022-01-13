@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-sap-food-menu/static/css/main.16576aee.css",
-    "main.js": "/react-sap-food-menu/static/js/main.74394980.js",
+    "main.css": "/react-sap-food-menu/static/css/main.659e8310.css",
+    "main.js": "/react-sap-food-menu/static/js/main.c3ae44f9.js",
     "index.html": "/react-sap-food-menu/index.html",
-    "main.16576aee.css.map": "/react-sap-food-menu/static/css/main.16576aee.css.map",
-    "main.74394980.js.map": "/react-sap-food-menu/static/js/main.74394980.js.map"
+    "main.659e8310.css.map": "/react-sap-food-menu/static/css/main.659e8310.css.map",
+    "main.c3ae44f9.js.map": "/react-sap-food-menu/static/js/main.c3ae44f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.16576aee.css",
-    "static/js/main.74394980.js"
+    "static/css/main.659e8310.css",
+    "static/js/main.c3ae44f9.js"
   ]
 }
